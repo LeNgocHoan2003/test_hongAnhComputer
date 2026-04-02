@@ -31,5 +31,3 @@ The project uses a feature-based structure in `lib/`, for example:
 - `lib/features/`: Feature modules (presentation, logic, data)
 - `lib/main.dart`: Application entry point
 
-## Useful Commands
-
